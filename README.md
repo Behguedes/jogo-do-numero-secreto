@@ -12,5 +12,5 @@
 
 # Time
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Brenda Nascimento</sub>](https://github.com/Behguedes) |
+| [<img loading="lazy" src="" width=115><br><sub>Brenda Nascimento</sub>](https://github.com/Behguedes) |
 
